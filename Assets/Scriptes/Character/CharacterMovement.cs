@@ -26,16 +26,14 @@ public class CharacterMovement : MonoBehaviour
     }
 
     private void Update()
-    {
-        // 1. Сначала проверяем физику
+    {    
         CheckGround();
 
         _moveInputX = Input.GetAxis("Horizontal");
         _isMoving = _moveInputX != 0;
 
         _animations.IsMoving = _isMoving;
-
-        // ИСПРАВЛЕНИЕ 1: Передаем аниматору полет только если мы реально не на земле
+       
         _animations.IsFlying = !_isGrounded && IsFalling();
 
         if (_moveInputX > 0)
