@@ -5,7 +5,9 @@ public class CharacterAnimations : MonoBehaviour
     private Animator _animator;
 
     public bool IsMoving { private get; set; }
-    public bool IsFlying { private get; set; }
+    public bool IsFalling { private get; set; }
+    public bool IsGrounded { private get; set; }
+    public bool IsJumping { private get; set; }
 
     private void Start()
     {
@@ -15,11 +17,8 @@ public class CharacterAnimations : MonoBehaviour
     private void FixedUpdate()
     {
         _animator.SetBool("IsMoving", IsMoving);
-        _animator.SetBool("IsFlying", IsFlying);
-    }
-
-    public void Jump()
-    {
-        _animator.SetTrigger("Jump");
+        _animator.SetBool("IsFalling", IsFalling);
+        _animator.SetBool("IsGrounded", IsGrounded);
+        _animator.SetBool("IsJumping", IsJumping);
     }
 }

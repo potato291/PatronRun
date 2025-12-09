@@ -11,7 +11,8 @@ public class CharacterMovement : MonoBehaviour
 
     private float _moveInputX;
     private bool _isMoving;
-    private bool _isGrounded;
+    [SerializeField]private bool _isGrounded;
+    private bool _isJumping;
 
     public CoinManager cm;
 
@@ -33,8 +34,18 @@ public class CharacterMovement : MonoBehaviour
         _isMoving = _moveInputX != 0;
 
         _animations.IsMoving = _isMoving;
-       
-        _animations.IsFlying = !_isGrounded && IsFalling();
+
+        _animations.IsFalling = !_isGrounded && IsFalling();
+
+        if (IsFalling())
+        {
+            _isJumping = false;
+            _animations.IsJumping = _isJumping;
+        }
+
+        _animations.IsJumping = _isJumping;
+
+        _animations.IsGrounded = _isGrounded;
 
         if (_moveInputX > 0)
             _characterSprite.flipX = false;
@@ -46,7 +57,6 @@ public class CharacterMovement : MonoBehaviour
             if (_isGrounded)
             {
                 Jump();
-                _animations.Jump();
             }
         }
     }
@@ -70,6 +80,7 @@ public class CharacterMovement : MonoBehaviour
     private void Jump()
     {
         _rigidbody.AddForce(transform.up * _jumpForce, ForceMode2D.Impulse);
+        _isJumping = true;
     }
 
     private void OnDrawGizmosSelected()

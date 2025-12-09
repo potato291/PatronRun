@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 55b4045d2b85d82419fc2bc062037791
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2884854212338401462
+    second: BetterSlimeSprite_0
+  - first:
+      213: 1882318164639707045
+    second: BetterSlimeSprite_1
+  - first:
+      213: -4245483051389469335
+    second: BetterSlimeSprite_2
+  - first:
+      213: -4447306138101830846
+    second: BetterSlimeSprite_3
+  - first:
+      213: 293892897720827629
+    second: BetterSlimeSprite_4
+  - first:
+      213: 4117945014218301112
+    second: BetterSlimeSprite_5
+  - first:
+      213: -1340593139841674216
+    second: BetterSlimeSprite_6
+  - first:
+      213: -2320662721264517038
+    second: BetterSlimeSprite_7
+  - first:
+      213: 2834786258268044095
+    second: BetterSlimeSprite_8
+  - first:
+      213: -5890925613554637940
+    second: BetterSlimeSprite_9
+  - first:
+      213: 4865852274302958151
+    second: BetterSlimeSprite_10
+  - first:
+      213: -307534529390241661
+    second: BetterSlimeSprite_11
+  - first:
+      213: 3234312282361871385
+    second: BetterSlimeSprite_12
+  - first:
+      213: 645425965791132980
+    second: BetterSlimeSprite_13
+  - first:
+      213: -7721303966127117988
+    second: BetterSlimeSprite_14
+  - first:
+      213: -3139118090973527420
+    second: BetterSlimeSprite_15
+  - first:
+      213: 4712946461159000898
+    second: BetterSlimeSprite_16
+  - first:
+      213: -1699296472674740130
+    second: BetterSlimeSprite_17
+  - first:
+      213: -8129522326863436123
+    second: BetterSlimeSprite_18
+  - first:
+      213: 5595408448883519785
+    second: BetterSlimeSprite_19
+  - first:
+      213: -2967151894306474957
+    second: BetterSlimeSprite_20
+  - first:
+      213: -3873838012076827022
+    second: BetterSlimeSprite_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BetterSlimeSprite_0
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 839
+        width: 431
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0483b1f9f090820800000000000000
+      internalID: 2884854212338401462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 839
+        width: 419
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6d95d5665f1a10800000000000000
+      internalID: 1882318164639707045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 838
+        width: 406
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3df588a30515c0800000000000000
+      internalID: -4245483051389469335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_3
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 839
+        width: 394
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ba60751aef742c0800000000000000
+      internalID: -4447306138101830846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_4
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 840
+        width: 394
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef8aa880e141400800000000000000
+      internalID: 293892897720827629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_5
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 840
+        width: 392
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be92113c21e52930800000000000000
+      internalID: 4117945014218301112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_6
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 840
+        width: 393
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814596f54a1456de0800000000000000
+      internalID: -1340593139841674216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 428
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2508987ec895bcfd0800000000000000
+      internalID: -2320662721264517038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 414
+        width: 430
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bb932251f275720800000000000000
+      internalID: 2834786258268044095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 414
+        width: 419
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8363ddad5a3f3ea0800000000000000
+      internalID: -5890925613554637940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 414
+        width: 406
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aba53fcdaf68340800000000000000
+      internalID: 4865852274302958151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 414
+        width: 394
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388178399fa6bbbf0800000000000000
+      internalID: -307534529390241661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_12
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 414
+        width: 394
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cbcda72e592ec20800000000000000
+      internalID: 3234312282361871385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_13
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 415
+        width: 393
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3bcb0f7305f800800000000000000
+      internalID: 645425965791132980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_14
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 415
+        width: 393
+        height: 311
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ad28b3fa68d490800000000000000
+      internalID: -7721303966127117988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 426
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482458f5abc9f64d0800000000000000
+      internalID: -3139118090973527420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 420
+        height: 287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b01de06dfb76140800000000000000
+      internalID: 4712946461159000898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 406
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d5228cd2ea68e0800000000000000
+      internalID: -1699296472674740130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 394
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a2b904822e2f80800000000000000
+      internalID: -8129522326863436123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_19
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 0
+        width: 394
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921fbe8a652e6ad40800000000000000
+      internalID: 5595408448883519785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BetterSlimeSprite_20
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 392
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343c31a21f82d6d0800000000000000
+      internalID: -2967151894306474957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fa6758055d4a4d4fb3818132af5277b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":3.0},"gridSpriteSize":{"x":428.0,"y":416.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BetterSlimeSprite_0: 2884854212338401462
+      BetterSlimeSprite_1: 1882318164639707045
+      BetterSlimeSprite_10: 4865852274302958151
+      BetterSlimeSprite_11: -307534529390241661
+      BetterSlimeSprite_12: 3234312282361871385
+      BetterSlimeSprite_13: 645425965791132980
+      BetterSlimeSprite_14: -7721303966127117988
+      BetterSlimeSprite_15: -3139118090973527420
+      BetterSlimeSprite_16: 4712946461159000898
+      BetterSlimeSprite_17: -1699296472674740130
+      BetterSlimeSprite_18: -8129522326863436123
+      BetterSlimeSprite_19: 5595408448883519785
+      BetterSlimeSprite_2: -4245483051389469335
+      BetterSlimeSprite_20: -2967151894306474957
+      BetterSlimeSprite_21: -3873838012076827022
+      BetterSlimeSprite_3: -4447306138101830846
+      BetterSlimeSprite_4: 293892897720827629
+      BetterSlimeSprite_5: 4117945014218301112
+      BetterSlimeSprite_6: -1340593139841674216
+      BetterSlimeSprite_7: -2320662721264517038
+      BetterSlimeSprite_8: 2834786258268044095
+      BetterSlimeSprite_9: -5890925613554637940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
