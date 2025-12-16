@@ -61,7 +61,8 @@
 * **Version Control:** Git & GitHub
 
 ## 🎨 UI/UX Дизайн
-Прототип інтерфейсу та дизайн-система доступні у Figma.
+Прототип інтерфейсу та дизайн-система доступні у Figma:
+https://www.figma.com/design/AjY0W2Xtk9bJ1wyYT03oqa/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF_UI_Patron_Run?node-id=0-1&t=J63qGnxvvFRILhe6-1
 
 ---
 *Developed for University Project, 2025*
