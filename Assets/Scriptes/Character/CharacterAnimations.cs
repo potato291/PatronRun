@@ -11,14 +11,23 @@ public class CharacterAnimations : MonoBehaviour
 
     private void Start()
     {
-        _animator = GetComponentInChildren<Animator>();
+        _animator = GetComponent<Animator>();
+
+        if (_animator == null)
+            _animator = GetComponentInChildren<Animator>();
+
+        if (_animator == null)
+            Debug.LogError("CRITICAL ERROR: Не могу найти Animator ни на собаке, ни внутри неё!");
     }
 
     private void FixedUpdate()
     {
-        _animator.SetBool("IsMoving", IsMoving);
-        _animator.SetBool("IsFalling", IsFalling);
-        _animator.SetBool("IsGrounded", IsGrounded);
-        _animator.SetBool("IsJumping", IsJumping);
+        if (_animator != null)
+        {
+            _animator.SetBool("IsMoving", IsMoving);
+            _animator.SetBool("IsFalling", IsFalling);
+            _animator.SetBool("IsGrounded", IsGrounded);
+            _animator.SetBool("IsJumping", IsJumping);
+        }
     }
 }

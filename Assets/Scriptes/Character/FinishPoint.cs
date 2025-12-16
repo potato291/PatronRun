@@ -27,7 +27,7 @@ public class FinishPoint : MonoBehaviour
         }
         else
         {
-            Debug.Log("Игра пройдена! Возвращаемся на старт.");
+            Debug.Log("You have beat the game! Returning to the start");
             SceneManager.LoadScene(0);
         }
     }
